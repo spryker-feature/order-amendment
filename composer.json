@@ -1,0 +1,16 @@
+{
+    "name": "spryker-feature/order-amendment",
+    "description": "Order Amendment [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.2"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202410.x-dev"
+        }
+    }
+}
