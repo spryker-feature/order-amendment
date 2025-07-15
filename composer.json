@@ -7,10 +7,10 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/sales-order-amendment-widget": "^0.9.0",
-        "spryker/price-product-sales-order-amendment": "^0.4.0",
-        "spryker/sales-order-amendment": "^0.7.0",
-        "spryker/sales-order-amendment-oms": "^0.7.0"
+        "spryker-shop/sales-order-amendment-widget": "^1.0.0",
+        "spryker/price-product-sales-order-amendment": "^1.0.0",
+        "spryker/sales-order-amendment": "^1.0.0",
+        "spryker/sales-order-amendment-oms": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
