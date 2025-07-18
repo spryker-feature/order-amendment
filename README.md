@@ -1,6 +1,6 @@
 # Spryker Feature: Order Amendment
 
-TBD
+The "Order Amendment" feature allows customers to modify existing orders after placement by adding, updating, or removing items. It enhances the post-purchase experience by providing greater flexibility and control, supporting configurable pricing and stock strategies, enabling seamless transitions between editing an order and shopping in the active cart (when Multi-Cart is enabled), and preserving the original order reference for consistent tracking and communication.
 
 ## Installation
 
